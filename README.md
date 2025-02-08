@@ -1,4 +1,6 @@
-More function results consistent with the KAN paper in Symbolic formula representation (SFR) task.
+# More Function Results Consistent with the KAN Paper in Symbolic Formula Representation (SFR) Task
 
-Five toy datasets consistent in KAN
+Here are the results of five toy datasets consistent with KAN:
+
+![results](./SFR.drawio.png)
 
